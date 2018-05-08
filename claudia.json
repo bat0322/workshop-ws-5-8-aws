@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-briantomasco-executor",
+    "name": "workshop-ws-5-8-aws-briantomasco",
+    "region": "us-east-2"
+  }
+}
